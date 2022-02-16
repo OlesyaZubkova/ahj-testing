@@ -1,16 +1,6 @@
-Правила сдачи задания:
+### Credit Card Validator [![Build status](https://ci.appveyor.com/api/projects/status/9heyvku97r1rhl8u?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/ahj-testing)
 
-1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
-1. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
-1. Всё создание можно выполнить в виде одного Github-репозитория
-1. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
-1. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проект(ы)
 
-В качестве примера организации e2e-тестирования используйте код из каталога [`e2e`](e2e).
-
----
-
-### Credit Card Validator
 
 #### Легенда
 
